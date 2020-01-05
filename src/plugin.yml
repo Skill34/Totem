@@ -8,4 +8,3 @@ commands:
    totem:
       description: Commande generale du plugin.
       usage: /totem
-test SuperMario 
