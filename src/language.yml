@@ -1,0 +1,8 @@
+willspawntotem: '&aLe totem va apparaitre dans %TIME%.'
+spawntotem: '&aLe totem est apparu.'
+musthaveiteminhand: '&aTu dois casser le totem avec une hache en or.'
+resettotem: '&aLa faction %FACTIONNAME% n''a pas réussi a casser le totem, il c''est réinitialise.'
+playerhasbreakablock: '&aLe joueur %PLAYERNAME% de la faction %FACTIONNAME% a cassé un bloc du totem.'
+cheatplayer: '&aLe joueur %PLAYERNAME% a essayé de cheat.'
+musthavefaction: '&aVous devez avoir une faction pour participer a cet event.'
+endTotem: '&aLa faction %FACTIONNAME% a cassé tout le totem.'

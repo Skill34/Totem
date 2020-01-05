@@ -1,0 +1,10 @@
+name: ObsiTotem
+version: Alpha 1.0.0
+description: yolo
+authors: [SkillDev]
+main: com.skilldev.obsitotem.ObsiTotemPlugin
+depend: [ProtocolLib]
+commands:
+   totem:
+      description: Commande generale du plugin.
+      usage: /totem
